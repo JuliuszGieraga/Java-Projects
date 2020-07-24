@@ -1,5 +1,5 @@
 # Rzut kostką
-Opis projektu rzutu kostka
+Opis projektu rzutu kostka.
 
 Program Stworzony w NEATBEANS 8.2
 
