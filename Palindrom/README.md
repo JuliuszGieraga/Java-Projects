@@ -1,5 +1,5 @@
 # Palindrom
-Opis projektu. Sprawdza czy dany wyraz jest palindromem
+Opis projektu. Sprawdza czy dany wyraz jest palindromem.
 
 Program Stworzony w NEATBEANS 8.2
 
