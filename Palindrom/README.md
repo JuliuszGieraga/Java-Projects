@@ -4,14 +4,15 @@ Opis projektu rzutu kostka
 Program Stworzony w NEATBEANS 8.2
 
 Aby zobaczyć kod należy wejść w plik src
+
 # Program
 - Wprowadzasz wartość poprzez Scanner
 - Nastepnie jest zapisywana jego długość
 - Program sprawdza pierwszy i ostatni znak 
-- Wykonuje sie aż do momentu środkowego słowa
-- Jeżeli litera ostatnia i pierwsza oraz te bliżej 
-  środka są takie same wypisuje Jestem Palindormem 
-- Jezeli nie są wypisuje Nie jestem Palindromem
+- Wykonuje sie aż do momentu środkowego danego słowa
+- Jeżeli litera ostatnia i pierwsza oraz te na tej samej zasadzie 
+  sprawdzane są takie same wypisuje Jestem Palindormem 
+- Jezeli nie są ,wypisuje Nie jestem Palindromem
 
 # Opis Programu
 
