@@ -1,5 +1,5 @@
 # PESEL
-Opis projektu sprawdzającego date urodzenia oraz Płeć
+Opis projektu sprawdzającego date urodzenia oraz płeć.
 
 Program Stworzony w NEATBEANS 8.2
 
