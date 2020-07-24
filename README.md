@@ -1,2 +1,2 @@
 # Java-Projects
-My Java Projects made in 2020
+My Java Projects made in 2020.
