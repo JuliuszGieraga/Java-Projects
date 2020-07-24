@@ -1,5 +1,5 @@
 # Palindrom
-Opis projektu rzutu kostka
+Opis projektu.Sprawdza czy dany wyraz jest palindromem
 
 Program Stworzony w NEATBEANS 8.2
 
