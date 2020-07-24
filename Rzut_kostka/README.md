@@ -2,6 +2,7 @@
 Opis projektu rzutu kostka
 
 Program Stworzony w NEATBEANS 8.2
+Aby zobaczyć kod należy wejść w plik src
 # Program
 - Prosi o podanie wartości która bedzie odpowiadać danej metodzie
 - Po przez Scanner wprowadza dane do dalszego działania
